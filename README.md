@@ -43,7 +43,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/luis-borges/JobsCalcProject/blob/main/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/rocketseat-education/maratona-discover-02/blob/main/.github/LICENSE.md) para mais detalhes.
 
 ---
 
