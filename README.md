@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-    <img alt="JobsCalc" src="https://github.com/caiocichetti/jobs-calc/blob/main/.github/jobscalc.png" width="100%">
+    <img alt="JobsCalc" src="https://github.com/rocketseat-education/maratona-discover-02/raw/main/.github/jobscalc.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
