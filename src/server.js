@@ -1,9 +1,9 @@
 const express = require("express")
 const server = express()
+const routes = require("./routes")
 
-server.get('/', (request, response) => {
+server.use(express.static("public"))
 
-    return response.send('Fuck')
-})
+server.use(routes)
 
 server.listen(3000, () => console.log('Está funcionando'))
