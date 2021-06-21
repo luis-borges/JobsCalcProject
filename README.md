@@ -21,7 +21,31 @@
     <img alt="JobsCalc" src="https://github.com/rocketseat-education/maratona-discover-02/raw/main/.github/jobscalc.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## Pré Requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina:
+
+Git
+Node v14 ou superior
+NPM ou YARN
+
+Executando o JobsCalc
+# Clone este repositório
+$ git clone https://github.com/luis-borges/JobsCalcProject
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd JobsCalc
+
+# Instale as dependências
+$ npm install
+
+# Iniciando o banco de dados
+$ npm run init-db
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev
+
+## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -33,11 +57,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Express
 - SQLite
 
-## 💻 Projeto
+## Projeto
 
 O JobsCalc é uma aplicação de estimativa de cálculo para projetos freelancer, onde é possível cadastrar e excluir jobs (projetos), obtendo uma estimativa de custo de cada job. Além disso, é possível traçar o valor da hora da pessoa que estará usando o sistema 💰
 
-## 🔖 Layout
+## Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/s4fytPFbDiSkv4GPSfKaLE/Jobs-Planning). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
