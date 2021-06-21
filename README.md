@@ -19,10 +19,6 @@
 
 ![JobsCalc](https://user-images.githubusercontent.com/41124525/122695488-ddf70900-d216-11eb-809d-589dacb68441.png)
 
-<p align="center">
-    <img alt="JobsCalc" src="https://github.com/rocketseat-education/maratona-discover-02/raw/main/.github/jobscalc.png" width="100%">
-</p>
-
 ## Pré Requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina:
