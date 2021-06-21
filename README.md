@@ -31,7 +31,7 @@ NPM ou YARN
 
 Executando o JobsCalc
 # Clone este repositório
-$ git clone https://github.com/luis-borges/JobsCalcProject
+$ git clone git@github.com:luis-borges/JobsCalcProject.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd JobsCalc
